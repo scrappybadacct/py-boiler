@@ -1,4 +1,5 @@
 {
   "python.pythonPath": "/home/conor/.local/share/virtualenvs/nltk-m-qPHnjR/bin/python",
-  "python.formatting.provider": "black"
+  "python.formatting.provider": "black",
+  "restructuredtext.confPath": ""
 }
