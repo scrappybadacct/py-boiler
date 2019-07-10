@@ -12,6 +12,7 @@ example-nltk = {editable = true,path = "."}
 
 [packages]
 aiohttp = "*"
+aiofiles = "*"
 
 [requires]
 python_version = "3.7"
